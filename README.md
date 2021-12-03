@@ -12,5 +12,5 @@
 
 ## Download
 
-[📦 Download the development version](https://github.com/yalwolf/Genshin-Impact-Map-Microend/releases/download/Node.js/Genshin.Impact.Map.Microend.PC.zip)
+[📦 Download the ZIP version](https://github.com/yalwolf/Genshin-Impact-Map-Microend/releases/download/Node.js/Genshin.Impact.Map.Microend.PC.zip)
 [📦 Download the EXE version](https://github.com/yalwolf/Genshin-Impact-Map-Microend/releases/download/Node.js/Genshin.Impact.Map.Microend.PC.exe)
