@@ -12,4 +12,5 @@
 
 ## Download
 
-[📦 Download the development version](https://github.com/yalwolf/Genshin-Impact-Map-Microend/releases/Genshin Impact Map Microend PC.zip) [📦 Download the EXE version](https://github.com/yalwolf/Genshin-Impact-Map-Microend/releases/Genshin Impact Map Microend PC.exe)
+[📦 Download the development version](https://github.com/yalwolf/Genshin-Impact-Map-Microend/releases/Genshin Impact Map Microend PC.zip) 
+[📦 Download the EXE version](https://github.com/yalwolf/Genshin-Impact-Map-Microend/releases/Genshin Impact Map Microend PC.exe)
