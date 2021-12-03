@@ -1,4 +1,4 @@
-[![PHP Download](https://img.shields.io/badge/php-%3E%205.4-orange.svg)](https://github.com/yalwolf/Genshin-Impact-Map-Microend/releases/tag/Node.js)
+[![PHP Download](https://img.shields.io/badge/php-%3E%205.4-orange.svg)](https://github.com/yalwolf/Genshin-Impact-Map-Microend/releases/)
 <h1>Genshin Impact Map Microend PC</h1>
 
 ## Version
@@ -12,4 +12,4 @@
 
 ## Download
 
-[📦 Download the development version](https://github.com/yalwolf/Genshin-Impact-Map-Microend/releases/tag/Node.js) [📦 Download the EXE version](https://github.com/yalwolf/Genshin-Impact-Map-Microend/releases/tag/Node.js)
+[📦 Download the development version](https://github.com/yalwolf/Genshin-Impact-Map-Microend/releases/Genshin Impact Map Microend PC.zip) [📦 Download the EXE version](https://github.com/yalwolf/Genshin-Impact-Map-Microend/releases/Genshin Impact Map Microend PC.exe)
